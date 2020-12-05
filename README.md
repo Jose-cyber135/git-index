@@ -1,2 +1,3 @@
 # git-index
 sample page
+This is for educational purposes only....
